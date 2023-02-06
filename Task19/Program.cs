@@ -3,3 +3,8 @@
 14212 -> нет
 12821 -> да
 23432 -> да*/
+
+using System;
+using static System.Console;
+
+Clear();

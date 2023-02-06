@@ -1,0 +1,15 @@
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\bin\Debug\net6.0\Task21.exe
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\bin\Debug\net6.0\Task21.deps.json
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\bin\Debug\net6.0\Task21.runtimeconfig.json
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\bin\Debug\net6.0\Task21.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\bin\Debug\net6.0\Task21.pdb
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.csproj.AssemblyReference.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.AssemblyInfoInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.AssemblyInfo.cs
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.csproj.CoreCompileInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\refint\Task21.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.pdb
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\Task21.genruntimeconfig.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task21\obj\Debug\net6.0\ref\Task21.dll
