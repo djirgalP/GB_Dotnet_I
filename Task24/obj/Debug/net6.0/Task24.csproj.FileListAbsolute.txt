@@ -1,0 +1,15 @@
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\bin\Debug\net6.0\Task24.exe
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\bin\Debug\net6.0\Task24.deps.json
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\bin\Debug\net6.0\Task24.runtimeconfig.json
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\bin\Debug\net6.0\Task24.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\bin\Debug\net6.0\Task24.pdb
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.csproj.AssemblyReference.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.AssemblyInfoInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.AssemblyInfo.cs
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.csproj.CoreCompileInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\refint\Task24.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.pdb
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\Task24.genruntimeconfig.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task24\obj\Debug\net6.0\ref\Task24.dll
