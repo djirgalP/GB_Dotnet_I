@@ -1,0 +1,15 @@
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\bin\Debug\net6.0\Task29.exe
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\bin\Debug\net6.0\Task29.deps.json
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\bin\Debug\net6.0\Task29.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\bin\Debug\net6.0\Task29.pdb
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\refint\Task29.dll
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.pdb
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+D:\_Джиргал_Обучение\__Разработчик\Dotnet_I\Task29\obj\Debug\net6.0\ref\Task29.dll
