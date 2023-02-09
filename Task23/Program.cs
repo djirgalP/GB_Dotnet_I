@@ -7,3 +7,10 @@ using System;
 using static System.Console;
 
 Clear();
+Write("Введите N: ");
+int N = int.Parse(ReadLine());
+Console.Write("1");
+for (int i = 2; i <= N; i++) 
+{
+    Console.Write($", {i*i*i}");
+}
